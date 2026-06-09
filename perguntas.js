@@ -6,66 +6,66 @@ criaCartao(
 
 criaCartao(
     'agrinho',
-    '',
-    'O Border Collie.'
+    'Como o agrinho acontece',
+    'em escolas.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça é famosa por ser salva-vidas nas montanhas suíças?',
-    'O São Bernardo.'
+    'agrinho',
+    'esse projeto apoia oque?',
+    'O cuidado do meio ambiente.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual cachorro é conhecido como “o gigante gentil”?',
-    'O Dogue Alemão.'
+    'agrinho',
+    'porque e o projeto agrinho é importante”?',
+    'para cuidar do agro e dos campos.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça foi criada para caçar ratos em minas e fábricas?',
-    'O Terrier.'
+    'agrinho',
+    'O que é realizado no agrinho?',
+    'O cuidado do ambiente, campos e reciclagem'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual era a raça preferida da Rainha Elizabeth II?',
-    'O Corgi.'
+    'agrinho',
+    'O agrinho é importante?',
+    'sim.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça japonesa é símbolo de lealdade e inspirou o filme “Hachiko”?',
-    'O Akita Inu.'
+    'agrinho',
+    'quem criou o agrinho”?',
+    'O sistema FAEP.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual cachorro é famoso por suas dobras na pele e rosto enrugado?',
-    'O Shar Pei.'
+    'AGRINHO',
+    'O agrinho e só sobre o campo?',
+    'não.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça é conhecida por ter a língua azulada?',
-    'O Chow Chow.'
+    'agrinho',
+    'O projeto agrinho influencia os animais?',
+    'sim.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual raça tem fama de ser “cão de guarda brasileiro”?',
-    'O Fila Brasileiro.'
+    'agrinho',
+    'O agrinho pode ter doações”?',
+    'sim.'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual cachorro é usado como guia para pessoas cegas em muitos países?',
-    'O Labrador Retriever..'
+    'agrinho',
+    'O agrinho prejudica nossa comunidade?',
+    'nâo..'
 )
 
 criaCartao(
-    'Cachorrinhos',
-    'Qual é a raça com olfato mais poderoso, usada em resgates e farejamentos?',
-    'O Bloodhound.'
+    'agrinho',
+    'O agro e a natureza trabalham juntos?',
+    'sim.'
 )
